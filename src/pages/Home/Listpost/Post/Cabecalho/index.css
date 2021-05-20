@@ -1,5 +1,7 @@
 .cabecalho {
   display: flex;
-  align-items: center;
-  justify-content: center;
+  margin: 10px;
+}
+.texto {
+margin-left: 14px;
 }
